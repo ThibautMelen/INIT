@@ -1,0 +1,16 @@
+# **************************************************************************** #
+#                                                                              #
+#                                                         :::      ::::::::    #
+#    06                                                 :+:      :+:    :+:    #
+#                                                     +:+ +:+         +:+      #
+#    By: thmelen <marvin@42.fr>                     +#+  +:+       +#+         #
+#                                                 +#+#+#+#+#+   +#+            #
+#    Created: 2018/10/04 15:49:58 by thmelen           #+#    #+#              #
+#    Updated: 2018/10/04 15:54:50 by thmelen          ###   ########.fr        #
+#                                                                              #
+# **************************************************************************** #
+
+#/etc/resolv.conf
+
+#C'est le fichier de configuration de la bibliothèque resolver permettant de déterminer, entre autre, quel(s) serveur(s) DNS utiliser pour résoudre un nom de domaine.
+#https://wiki.archlinux.fr/resolv.conf

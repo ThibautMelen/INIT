@@ -1,0 +1,16 @@
+# **************************************************************************** #
+#                                                                              #
+#                                                         :::      ::::::::    #
+#    08                                                 :+:      :+:    :+:    #
+#                                                     +:+ +:+         +:+      #
+#    By: thmelen <marvin@42.fr>                     +#+  +:+       +#+         #
+#                                                 +#+#+#+#+#+   +#+            #
+#    Created: 2018/10/04 15:57:23 by thmelen           #+#    #+#              #
+#    Updated: 2018/10/04 17:15:41 by thmelen          ###   ########.fr        #
+#                                                                              #
+# **************************************************************************** #
+
+#whois slash16.org
+
+#Whois permet de savoir l'herbergeur du nom de domaine qui nous indique
+#que le site est heberger chez AWS
